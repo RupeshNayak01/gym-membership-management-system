@@ -16,7 +16,6 @@ The Gym Membership Management System is a Java-based application designed to sim
 ## Technologies Used
 
 * Java
-* MySQL
 * Object-Oriented Programming
 
 ## Learning Outcomes
